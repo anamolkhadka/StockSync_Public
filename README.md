@@ -42,7 +42,10 @@ The application helps businesses maintain accurate inventory records, essential 
 
 ## License
 
-This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+Copyright © [2024] Anamol Khadka
+All rights reserved.
 
-To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+This work is protected under copyright law. Unauthorized reproduction, distribution, or modification of this work, in whole or in part, is strictly prohibited without prior written permission from the copyright holder.
+
+For licensing inquiries or permissions, please contact: [khadkaanamol8@gmail.com]
   
